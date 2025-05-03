@@ -16,11 +16,6 @@ A simulation-based navigation system built for the NED University campus using s
 
 ---
 
-## 📸 Preview
-
-
-
----
 
 ## 🧠 Algorithms Used
 
