@@ -13,11 +13,7 @@ A simulation-based navigation system built for the NED University campus using s
 - 📊 Route comparison based on time, distance, and comfort
 - 🖼️ Simulation-ready for environments without GPS (e.g., indoor or closed campuses)
 
-
 ---
-![Image](https://github.com/user-attachments/assets/e8b235ba-69b8-4b69-9482-f4eacdd0f3bf)
----
-
 
 ## 🧠 Algorithms Used
 
@@ -46,5 +42,7 @@ npm install
 # Start the development server
 npm run dev
 
-
-
+```
+---
+![Image](https://github.com/user-attachments/assets/e8b235ba-69b8-4b69-9482-f4eacdd0f3bf)
+---
